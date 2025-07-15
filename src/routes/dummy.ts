@@ -1,6 +1,6 @@
 import { Router } from 'express';
 
-import { getAllUsers } from '@controllers/dummyController';
+import { getAllUsers } from '@/controllers/dummyController';
 
 const router = Router();
 
